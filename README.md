@@ -8,6 +8,6 @@ Get in Touch
 
 - Email: rajaccet28@gmail.com
 - LinkedIn: https://www.linkedin.com/in/karthick-raja-v-2824v?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Portfolio: [Your Portfolio](#)
+- Portfolio: https://splendid-quokka-029aa7.netlify.app
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. I'm always excited to connect with fellow tech enthusiasts!
