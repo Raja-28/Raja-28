@@ -9,32 +9,32 @@
 ## 🔗 Connect with Me
 
 - 🔹 [GitHub](https://github.com/karthickrajav)
-- 🔹 [LinkedIn](https://www.linkedin.com/in/karthickrajav) *(Add if you have one)*
-- 🔹 [Hackerrank](https://www.hackerrank.com/) *(Add your profile)*
-- 🔹 [LeetCode](https://leetcode.com/) *(Add your profile)*
-- 🔹 [Infosys Springboard](https://infyspringboard.onwingspan.com/) *(Add if publicly viewable)*
+- 🔹 [LinkedIn](https://www.linkedin.com/in/karthickrajav)
+- 🔹 [Hackerrank](https://www.hackerrank.com/profile/rajaccet28)
+- 🔹 [LeetCode](https://leetcode.com/u/karthickraja_v/)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 - 🥈 **NPTEL Deep Learning (IIT Ropar)** – Elite + Silver Certificate (75%)
-- 🧠 **Cipher Craft Winner** – Niral '24 @ CEG, Anna University
-- 🤖 **YoYO AI Hackathon Participant** – CEG, Anna University
+- 🧠 **Web Development Runner** – Niral '24 @ CEG, Anna University
+- 🤖 **Madurai TNStartUP Hackathon Finalist** – TNStartUp, Madurai
 - 📜 **MIT Robotics Internship (Production Tech Dept.)**
-- 🛡️ **Cyber Security (CCS334)** – Anna University Syllabus
+- 📜 **Web Developer Intern** - Lakshana Technologies
+- 🛡️ **Tech Connectors & Sight on Site** – MIT, Anna University
 - 🎖️ **Jenkins for DevOps** – Infosys Springboard Certification
 
 ---
 
 ## 💼 Internship & Research Experience
 
-- **Internship at Klart'Digi (MEAN Stack Developer)**  
-  Duration: 6 months | Mode: Work from Home  
-  Tasks: Web app analysis, student portal development, backend logic, MongoDB integration
 
 - **MIT Robotics Internship**  
   Learned about sensors, SolidWorks CAD, idea-to-project pipeline, and automation strategies
+
+- **Lakshana Technologies Web Developer Internship**  
+  Developed and Optimized Web interfaces using react
 
 - **IEEE Paper in Progress**  
   **Title:** *Edge Computing and RAG-Based AI for Remote ECG Monitoring with Location-Aware Emergency Notifications*
@@ -93,9 +93,9 @@
 ## 📚 Technical Skills
 
 - **Languages:** Python, C, Java, JavaScript, TypeScript  
-- **Frontend:** React Native, HTML5, CSS3, Tailwind  
+- **Frontend:** React, HTML5, CSS3, Tailwind  
 - **Backend:** Node.js, Express.js, Firebase, MongoDB  
-- **AI/ML:** TensorFlow, LangChain, OpenCV, EfficientNet, Streamlit  
+- **AI/ML:** TensorFlow, OpenCV, EfficientNet, Streamlit  
 - **IoT & Hardware:** ESP32, Arduino, GSM/GPS Modules  
 - **Tools:** GitHub, VS Code, Firebase, Blynk, Google Colab, Thonny IDE
 
@@ -106,8 +106,6 @@
 - 🦁 **Leo Club of ChettinadTech** – Organized multiple awareness campaigns:
   - “Explore, Engage, Educate” – 30-day educational awareness
   - Dengue Awareness Program – Neela Vembu Kasayam distribution
-
-- 🧑‍🏫 Speaker – Gave a 40-minute talk on **Google Virtualization** and its real-world applications
 
 ---
 
