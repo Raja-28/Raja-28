@@ -103,10 +103,8 @@
 
 ## 📢 Club & Social Activities
 
-- 🦁 **Leo Club of ChettinadTech** – Organized multiple awareness campaigns:
-  - “Explore, Engage, Educate” – 30-day educational awareness
-  - Dengue Awareness Program – Neela Vembu Kasayam distribution
-
+- 🦁 **Leo Club of ChettinadTech** – Organized multiple awareness campaigns
+  
 ---
 
 ## 🔮 Goals
