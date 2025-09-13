@@ -9,7 +9,7 @@
 ## 🔗 Connect with Me
 
 - 🔹 [GitHub](https://github.com/karthickrajav)
-- 🔹 [LinkedIn](https://www.linkedin.com/in/karthickrajav)
+- 🔹 [LinkedIn](https://www.linkedin.com/in/karthick-raja-v-2824v/)
 - 🔹 [Hackerrank](https://www.hackerrank.com/profile/rajaccet28)
 - 🔹 [LeetCode](https://leetcode.com/u/karthickraja_v/)
 
